@@ -1,0 +1,3 @@
+[submodule "wasm_test1/libwebp"]
+	path = wasm_test1/libwebp
+	url = https://github.com/webmproject/libwebp
